@@ -1,0 +1,26 @@
+[
+  {
+     "id":"photo",
+     "name":"Photo"
+  },
+  {
+    "id":"art",
+    "name":"Art"
+ },
+ {
+    "id":"graphic",
+    "name":"Graphic"
+  },
+  {
+    "id":"bw",
+    "name":"Black and white"
+  },
+  {
+    "id":"cool_colors",
+    "name":"Cool tone"
+  },
+  {
+    "id":"golden",
+    "name":"Golden"
+  }
+]
